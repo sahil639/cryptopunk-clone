@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Preview of the build
 
-
+![cryptopunk](https://github.com/sahil639/cryptopunk-clone/blob/master/src/assets/PREVIEW.png)
 
